@@ -3,5 +3,5 @@ for i in 1,2,3,4,5:
 
 
 
-for i in " python":
-    print(i)
+for data in " python":
+    print(data)

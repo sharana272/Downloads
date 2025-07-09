@@ -10,12 +10,13 @@ else:
 
 print(" enter pin")
 pin_input = int(input("enter pin"))
-if("pin is correct"):
+if("pin is correc t"):
       print("pin is correct")
 else:
       print("no")
 
 print("select language")
+pin_input==int(input("select language"))
 print("1.english")
 print("2.kannada")
 print("3.hindi")
@@ -26,9 +27,10 @@ elif("2"):
 elif("3"):
         print("selected 3.hindi")
 else:
-   print("1.")
+   print("in valid")
 
 print("select option")
+pin_input==int(input("select option"))
 print("1.withdraw")
 print("2.deposit")
 print("3.balance")
@@ -39,7 +41,7 @@ elif("2"):
 elif("3"):
      print("selected 3.balance")
 else:
-     print("1.")
+     print("in valid")
 print("enter amount to withdraw")
 withdraw =int(input("withdraw"))
 
